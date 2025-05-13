@@ -1,0 +1,85 @@
+{
+
+  "[html]": {
+
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "liveServer.settings.donotVerifyTags": true,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontSize": 14,
+  "editor.hover.above": false,
+  "editor.formatOnPaste": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "files.associations": {
+    "*.php": "php",
+    "*.jsx": "javascriptreact",
+    "*.js": "javascriptreact"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.fontWeight": "500",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "php.validate.enable": false,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[c]": {},
+  "editor.fontLigatures": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.validate": ["javascript"],
+  "[dockerfile]": {},
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "workbench.editor.enablePreview": false,
+  "[css]": {
+
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "tabnine.experimentalAutoImports": true,
+  "editor.fontFamily": "'MonoLisa','Fira Code Medium','Fira Code Medium',Consolas, 'Courier New', monospace",
+  "glassit.alpha": 245,
+  "editor.inlineSuggest.enabled": true,
+  "terminal.integrated.tabs.enabled": false,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": true,
+    "javascriptreact": true,
+    "javascript": true
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "codesnap.backgroundColor": "#15202b",
+  "codesnap.transparentBackground": true,
+  "codesnap.containerPadding": "2em",
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.runInTerminal": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "github.copilot.advanced": {
+    "authProvider": "github"
+  },
+  "terminal.integrated.suggest.enabled": true,
+}
